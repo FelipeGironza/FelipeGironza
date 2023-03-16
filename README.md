@@ -3,10 +3,18 @@
 - 🌱 Actualmente estoy aprendiendo a programar Full Stack para desempeñarme en cualquier ambito laboral de programacion
 - 🌱 Al mismo tiempo, estoy aprendiendo ingles 
 
-## Comandos Aprendidos
-
-
+## Comandos aprendidos 
 | Comandos | Funcion |
+| ---------| ------- |
+| `mkdir` | **Crear** carpeta |
+| `pwd` | **Mostrar** ruta donde me encuentro |
+| `touch` | **Crear** archivo |
+| `cat` | **Mostrar** contenido dada una ruta |
+| `cd` | **Cambiar** directorio |
+
+## Atajos de la terminal Aprendidos
+
+| Atajos | Funcion |
 | -------- | --------- |
 | `Ctrl + U` |  **Borrar** linea actual |
 | `Ctrl + w ` |  **Borrar** Ultima Palabra|
