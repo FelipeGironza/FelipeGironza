@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Felipe Gironza 👋
 
 - 🌱 Actualmente estoy aprendiendo a programar Full Stack para desempeñarme en cualquier ambito laboral de programacion
 - 🌱 Al mismo tiempo, estoy aprendiendo ingles 
